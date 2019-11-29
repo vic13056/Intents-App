@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Intents App</string>
+    <string name="mpesa">Mpesa</string>
+    <string name="call">call</string>
+    <string name="sms">sms</string>
+    <string name="camera">camera</string>
+    <string name="dial">dial</string>
+    <string name="email">email</string>
+    <string name="share">share</string>
+</resources>
